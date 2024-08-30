@@ -59,3 +59,46 @@ footer p {
     margin: 20px 0;
     text-align: center;
 }
+
+.blog-post {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.blog-post h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.blog-post h2 a {
+    color: #000;
+    text-decoration: none;
+}
+
+.blog-post h2 a:hover {
+    text-decoration: underline;
+}
+
+.post-meta {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.post-excerpt {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.continue-reading {
+    color: #0073aa;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.continue-reading:hover {
+    text-decoration: underline;
+}
+
